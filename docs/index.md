@@ -4,7 +4,7 @@ Notehax is a 3ds userland exploit for Flipnote Studio 3D, allowing one to launch
 ## Requirements
 You'll need :  
 * a 3ds on firmware <= 11.4
-* a digital copy of [Flipnote Studio 3D](https://my.nintendo.com/rewards/)
+* a digital copy of [Flipnote Studio 3D](https://my.nintendo.com/reward_categories/download_code)
 
 ## Installation
 1. Get the [notehax archive](https://github.com/notehax/releases/) according to your region.
