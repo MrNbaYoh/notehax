@@ -8,7 +8,7 @@ You'll need :
 * a digital copy of [Flipnote Studio 3D](https://my.nintendo.com/rewards/0391c34c430369c0) on ver 1.3.1 (JPN) and ver ??? for EUR/USA (not the latest)
 
 ## Installation
-1. Get the [notehax archive](https://github.com/notehax/releases/) according to your region.
+1. Get the [notehax archive](https://github.com/mrnbayoh/notehax/releases/) according to your region.
 2. Extract it to the root of your SD card (the /private folder must be at the root) /!\ If you delete the previous /private folder all your notes saved on the SD card will be lost /!\
 3. Download the [otherapp payload](http://smealum.github.io/3ds/) corresponding to your region/console/firmware etc.
 4. Copy the otherapp payload to the /notehax folder and rename it "otherapp.bin".
