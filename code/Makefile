@@ -42,7 +42,7 @@ endef
 all: dirs source/constants.h $(PROJECTNAME).bin
 
 source/constants.h:
-	@python makeConstantsHeader.py ../ropdb/DB.py constants.h
+	@python3 makeConstantsHeader.py ../ropdb/DB.py constants.h
 
 dirs:
 	@mkdir -p build

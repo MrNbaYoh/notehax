@@ -13,7 +13,7 @@ note/build: rop/build
 
 notehax: note/build
 	@cp note/build/note.bin utils/note.bin
-	@cd utils && python signKWZ.py note.bin
+	@cd utils && python3 signKWZ.py note.bin
 	@mv utils/note.bin notehaxnotehaxnotehaxnotehax.kwz
 
 rop/build:
