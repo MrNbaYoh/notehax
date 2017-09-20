@@ -1,15 +1,11 @@
 # <img src="https://vignette2.wikia.nocookie.net/flipnoteartist/images/e/e6/Frog.png/revision/latest?cb=20150103171103" width="48">Notehax
 Notehax is a 3ds userland exploit for Flipnote Studio 3D, allowing one to launch
 [the Homebrew Launcher](http://smealum.github.io/3ds/) through the game.
+
 ## Requirements
 You'll need :  
-<<<<<<< HEAD
 * a 3ds on firmware <= 11.5
 * a digital copy of [Flipnote Studio 3D](https://my.nintendo.com/rewards/0391c34c430369c0) on ver 1.3.1 (JPN) and ver ??? for EUR/USA (not the latest)
-=======
-* a 3ds on firmware <= 11.4
-* a digital copy of [Flipnote Studio 3D](https://my.nintendo.com/reward_categories/download_code)
->>>>>>> origin/master
 
 ## Installation
 1. Get the [notehax archive](https://github.com/notehax/releases/) according to your region.
