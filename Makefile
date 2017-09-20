@@ -20,8 +20,8 @@ rop/build:
 	@cd rop && make
 
 clean:
-	@rm notehaxnotehaxnotehaxnotehax.kwz
 	@rm ropdb/DB.py
-	@cd note && make clean
 	@cd rop && make clean
 	@cd code && make clean
+	@cd note && make clean
+	@rm notehaxnotehaxnotehaxnotehax.kwz
