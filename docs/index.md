@@ -5,13 +5,15 @@ Notehax is a 3ds userland exploit for Flipnote Studio 3D, allowing one to launch
 ## Requirements
 You'll need :  
 * a 3ds on firmware <= 11.5
-* a digital copy of [Flipnote Studio 3D](https://my.nintendo.com/rewards/0391c34c430369c0) on ver 1.3.1 (JPN) and ver ??? for EUR/USA (not the latest)
+* a digital copy of [Flipnote Studio 3D](https://my.nintendo.com/rewards/0391c34c430369c0) on ver 1.3.1 (JPN) and ver 1.0.0 for EUR/USA (not the latest)
 
 ## Installation
 1. Get the [notehax archive](https://github.com/mrnbayoh/notehax/releases/) according to your region.
 2. Extract it to the root of your SD card (the /private folder must be at the root) /!\ If you delete the previous /private folder all your notes saved on the SD card will be lost /!\
 3. Download the [otherapp payload](http://smealum.github.io/3ds/) corresponding to your region/console/firmware etc.
 4. Copy the otherapp payload to the /notehax folder and rename it "otherapp.bin".
+5. Download the and copy to your SD card the [homebrew starter kit](http://smealum.github.io/3ds/).
+6. If you're running the EUR version, switch your 3ds language to French.
 
 ## How to use notehax
 To access [the Homebrew Launcher](http://smealum.github.io/3ds/) just try to open the custom note that should've appeared in the SD folder:  
